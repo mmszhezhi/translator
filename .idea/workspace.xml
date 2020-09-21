@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61cc25d9-9646-45c6-9913-abc92d8b013f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hg7wv0ZWXh2K2zPceA6DGLWtDN" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="seq2seq-translation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="seq2seq-translation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61cc25d9-9646-45c6-9913-abc92d8b013f" name="Default Changelist" comment="" />
+      <created>1600421123027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600421123027</updated>
+      <workItem from="1600421124179" duration="5237000" />
+      <workItem from="1600590652377" duration="599000" />
+      <workItem from="1600652425768" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="668" y="132" key="#train" timestamp="1600421158080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="132" key="#train/0.0.1920.1040@0.0.1920.1040" timestamp="1600421158080" />
+    <state x="208" y="505" width="1593" height="535" key="#xdebugger.evaluate" timestamp="1600423036029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="208" y="505" width="1593" height="535" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1600423036029" />
+    <state width="2517" height="446" key="GridCell.Tab.0.bottom" timestamp="1600430961725">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="446" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600424452850" />
+    <state width="2517" height="446" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600430961725" />
+    <state width="2517" height="446" key="GridCell.Tab.0.center" timestamp="1600430961725">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="446" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600424452850" />
+    <state width="2517" height="446" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600430961725" />
+    <state width="2517" height="446" key="GridCell.Tab.0.left" timestamp="1600430961725">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="446" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600424452850" />
+    <state width="2517" height="446" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600430961725" />
+    <state width="2517" height="446" key="GridCell.Tab.0.right" timestamp="1600430961725">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="446" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600424452850" />
+    <state width="2517" height="446" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600430961725" />
+    <state width="1877" height="365" key="GridCell.Tab.1.bottom" timestamp="1600423740815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600423740815" />
+    <state width="1877" height="365" key="GridCell.Tab.1.center" timestamp="1600423740815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600423740815" />
+    <state width="1877" height="365" key="GridCell.Tab.1.left" timestamp="1600423740815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600423740815" />
+    <state width="1877" height="365" key="GridCell.Tab.1.right" timestamp="1600423740815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600423740815" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1600421170523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600421170523" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1600421287169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1600421287169" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1600655372909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600655372909" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>183</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/seq2seq_translation$test.coverage" NAME="test Coverage Results" MODIFIED="1600422425079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seq2seq_translation$train.coverage" NAME="train Coverage Results" MODIFIED="1600430961721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
